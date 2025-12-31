@@ -5,3 +5,6 @@ The main Docker issue I faced was a port conflict error when running the contain
 
 ### Most Important Git/GitHub Lesson Learned
 The most important lesson I learned was that GitHub does not automatically update when files are modified locally. Changes must be staged, committed with a clear and professional commit message, and then pushed to GitHub. I also learned the importance of using meaningful commit messages and organizing commits logically throughout the project.
+### Bonus Work
+- Added docker-compose.yml to simplify running the application.
+- Added a Docker healthcheck to monitor container status.
